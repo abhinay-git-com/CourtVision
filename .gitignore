@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Data and outputs
+data/raw/
+data/processed/
+*.parquet
+*.pkl
+*.joblib
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Reports generated locally
+reports/generated/
+

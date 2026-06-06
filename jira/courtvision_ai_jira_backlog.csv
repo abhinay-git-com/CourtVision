@@ -1,0 +1,32 @@
+Issue Type,Summary,Description,Assignee,Priority,Story Points,Labels,Components,Sprint
+Epic,Phase 1 prediction foundation,Build the data and model foundation for pre-tournament top 8 predictions.,Rohit Kumar,High,8,phase-1,Modeling,Sprint 0
+Epic,Tournament monitoring and knockout predictions,Refresh predictions during Wimbledon and produce knockout-stage outputs.,Rohit Kumar,High,8,phase-2 phase-3,Submission,Sprint 4
+Task,Create GitHub repository and invite team,Create repo, add collaborators, configure branch rules where available, and document repo workflow.,Rohit Kumar,High,2,setup,Project Setup,Sprint 0
+Task,Create Jira Scrum board,Create CourtVision AI Jira project, import backlog CSV, configure columns, labels, components, and first sprint.,Rohit Kumar,High,3,setup,Project Setup,Sprint 0
+Task,Create Confluence project space,Create home page, team charter, sprint plan, modeling strategy, dataset research, and submission checklist pages.,Rohit Kumar,Medium,2,docs,Documentation,Sprint 0
+Task,Register team for hackathon,Register Rohit Kumar, Abhinay Singh, and Harshit Singh before the deadline.,Rohit Kumar,Highest,1,urgent,Project Setup,Sprint 0
+Story,Shortlist public tennis datasets,Find candidate ATP/WTA match history, rankings, player metadata, and Wimbledon historical outcome datasets.,Abhinay Singh,High,3,data,Data,Sprint 0
+Story,Define data schema,Document required tables, keys, refresh cadence, and data quality checks.,Abhinay Singh,High,3,data,Data,Sprint 1
+Story,Build initial data ingestion scripts,Create repeatable scripts to load selected public datasets into local processed files.,Abhinay Singh,High,5,data,Data,Sprint 1
+Story,Normalize player identities,Create player matching logic to handle names, tours, countries, and duplicate records.,Abhinay Singh,High,5,data,Data,Sprint 1
+Story,Create grass-court performance features,Compute grass win rate, grass Elo, Wimbledon history, and recent grass form.,Harshit Singh,High,5,model data,Modeling,Sprint 1
+Story,Create recent-form features,Compute recent match performance, tournament depth, opponent quality, and recency-weighted form.,Harshit Singh,Medium,3,model,Modeling,Sprint 1
+Story,Build ranking-only baseline,Create a simple baseline using current rankings to compare all models against.,Harshit Singh,High,2,model eval,Modeling,Sprint 2
+Story,Build Elo baseline,Implement tour-specific Elo or surface-adjusted Elo and backtest against historical matches.,Harshit Singh,High,5,model eval,Modeling,Sprint 2
+Story,Build match winner model,Train a match-level model for winner probability using available features.,Harshit Singh,High,8,model,Modeling,Sprint 2
+Story,Backtest top 8 selection,Evaluate historical Wimbledon top 8 predictions and compare against baselines.,Harshit Singh,High,5,eval,Evaluation,Sprint 2
+Story,Create explainability template,Define the prediction explanation format: probability, top factors, risks, and rationale.,Rohit Kumar,Medium,3,docs eval,Documentation,Sprint 2
+Task,Prepare Phase 1 prediction file,Generate final men's and women's top 8 predictions in the required submission format.,Rohit Kumar,Highest,3,phase-1 urgent,Submission,Sprint 3
+Task,Write Phase 1 methodology note,Document data, model, validation, and explanation in a concise submission-ready note.,Rohit Kumar,High,3,phase-1 docs,Documentation,Sprint 3
+Task,Run Phase 1 reproducibility check,Re-run code from clean instructions and confirm predictions can be reproduced.,Abhinay Singh,High,2,phase-1 eval,Evaluation,Sprint 3
+Task,Submit Phase 1 entry,Upload final Phase 1 files before 28 June 2026 11:59 PM IST and record confirmation.,Rohit Kumar,Highest,1,phase-1 urgent,Submission,Sprint 3
+Story,Create tournament refresh process,Define how to ingest draw and match results during Wimbledon with minimal manual work.,Abhinay Singh,High,5,phase-2 data,Data,Sprint 4
+Story,Create revision decision memo,Assess whether Round-of-16 revisions improve expected score after accounting for penalties.,Rohit Kumar,High,3,phase-2 docs,Documentation,Sprint 4
+Story,Build knockout prediction workflow,Generate QF, SF, and final winner predictions from current draw state.,Harshit Singh,High,5,phase-3 model,Modeling,Sprint 5
+Story,Estimate set-difference signal,Create a simple and explainable set-difference prediction feature or model.,Harshit Singh,Medium,5,phase-3 model,Modeling,Sprint 5
+Task,Create final presentation outline,Build leadership narrative: problem, data, model, validation, predictions, and business-style insight.,Rohit Kumar,High,3,presentation,Presentation,Sprint 5
+Task,Create final deck,Prepare polished final presentation deck if shortlisted.,Rohit Kumar,High,8,presentation,Presentation,Sprint 6
+Task,Run mock presentation,Practice presentation, capture feedback, and revise storyline.,Rohit Kumar,Medium,2,presentation,Presentation,Sprint 6
+Task,Set up AI-generated standup summaries,Create a repeatable prompt or script to summarize daily updates into meeting notes.,Rohit Kumar,Low,2,automation,Automation,Sprint 1
+Task,Set up Jira and Confluence API plan,Document tokens, endpoints, and MCP/API approach for automated ticket and page updates.,Rohit Kumar,Low,3,automation,Automation,Sprint 1
+
