@@ -231,3 +231,7 @@ If setting up the project for the first time:
 - **Feature Engineering for Sports:** Head-to-head records, surface-specific stats, player ranking trends, rolling performance indices
 - **Common Approaches:** XGBoost/CatBoost for interpretability, LSTM for temporal patterns, ensemble methods for robustness
 - **Evaluation Metrics:** Accuracy, log-loss, ROC-AUC, custom metrics for set-difference signals
+
+---
+
+Webhook smoke test: Teams bot delivery check.
