@@ -44,6 +44,57 @@ Uncertainty adjustments:
 - Difficult draw-section penalty.
 - Volatile player penalty.
 
+## How to Use Our Historical and Draw Data
+
+Use this strategy as the clearest manual-audit layer over our existing data:
+
+- `data/processed/phase1_player_features.csv`: primary input for ranking, grass, Wimbledon, and recent-form scores.
+- `data/processed/phase1_rolling_form_trends.csv`: input for momentum and volatility checks.
+- `data/processed/wimbledon_2026_mens_entries.csv`: men's candidate pool.
+- `data/processed/wimbledon_2026_womens_entries.csv`: women's candidate pool.
+- `data/processed/match_history_combined.csv`: source for historical Wimbledon and grass-court validation.
+
+Step-by-step workflow:
+
+1. Refresh local processed files:
+
+```bash
+python scripts/process_and_upload.py --local-only
+python scripts/phase1_model.py
+```
+
+2. Build the scoring sheet.
+
+Create one row per 2026 entrant using `phase1_player_features.csv`. Include rank, seed if available, grass performance, recent form, Wimbledon history, and Grand Slam consistency.
+
+3. Smooth small-sample rates.
+
+Use Bayesian smoothing for grass win rate and Wimbledon win rate so players with tiny samples do not get unrealistic scores.
+
+4. Add official draw sections.
+
+When the draw is saved locally, create:
+
+```text
+data/processed/wimbledon_2026_draw_sections.csv
+```
+
+Minimum required columns:
+
+```text
+tour, draw_position, section, seed, player, first_round_opponent
+```
+
+Join this file to the scoring sheet by `tour` and `player`.
+
+5. Apply section-level risk adjustment.
+
+For each section, subtract a draw difficulty penalty if the player's path includes a top seed, elite grass player, or dangerous recent-form opponent before the quarterfinal.
+
+6. Produce final section rankings.
+
+Sort by adjusted score inside each of the eight sections. Select the top player as the pick and the second player as backup.
+
 ## Modeling Method
 
 Create a weighted score for every player:

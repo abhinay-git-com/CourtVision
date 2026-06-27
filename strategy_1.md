@@ -35,6 +35,57 @@ Which eight men's players and which eight women's players should we submit as pr
 - Best-of-five adjustment for men's matches.
 - Draw-path difficulty.
 
+## How to Use Our Historical and Draw Data
+
+Start from the local processed files we already generate:
+
+- `data/processed/match_history_combined.csv`: canonical ATP/WTA historical match log.
+- `data/processed/phase1_player_features.csv`: current player-level ranking, grass, Wimbledon, and recent-form features.
+- `data/processed/phase1_rolling_form_trends.csv`: rolling player form trends.
+- `data/processed/wimbledon_2026_mens_entries.csv`: men's entry list parsed from `MS_Entries.pdf`.
+- `data/processed/wimbledon_2026_womens_entries.csv`: women's entry list parsed from `LS_Entries.pdf`.
+
+Step-by-step workflow:
+
+1. Rebuild local processed data from raw inputs:
+
+```bash
+python scripts/process_and_upload.py --local-only
+python scripts/phase1_model.py
+```
+
+2. Build Elo ratings from `match_history_combined.csv`.
+
+Use one Elo rating for all surfaces and one grass-only Elo rating. For every historical match, update the winner upward and the loser downward. For grass matches, also update the grass Elo.
+
+3. Join 2026 entrants to player features.
+
+Use the player names in `wimbledon_2026_mens_entries.csv` and `wimbledon_2026_womens_entries.csv`, then join to `phase1_player_features.csv` and `phase1_rolling_form_trends.csv`.
+
+4. Add the official draw.
+
+Once the official draw is saved locally, create:
+
+```text
+data/processed/wimbledon_2026_draw_sections.csv
+```
+
+Minimum required columns:
+
+```text
+tour, draw_position, section, seed, player, first_round_opponent
+```
+
+Sections should be numbered `1` to `8`, where each section contains 16 players and produces one quarterfinalist.
+
+5. Simulate the bracket.
+
+For each simulated match, calculate win probability from the two players' blended Elo strength. Advance one player until the bracket reaches quarterfinalists, semifinals, finalists, and champion. Repeat at least 10,000 times.
+
+6. Produce the Phase 1 picks.
+
+For each tour and each section, select the player with the highest simulated quarterfinal probability. Keep the second-highest player as the backup pick.
+
 ## Modeling Method
 
 1. Build player strength ratings.

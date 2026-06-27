@@ -67,6 +67,75 @@ Risk features:
 - First-round upset risk.
 - Low grass sample-size flag.
 
+## How to Use Our Historical and Draw Data
+
+Start from the local processed files already available in the repo:
+
+- `data/processed/match_history_combined.csv`: match-level history for ATP and WTA.
+- `data/processed/phase1_player_features.csv`: player-level engineered features for 2026.
+- `data/processed/phase1_rolling_form_trends.csv`: rolling player form features.
+- `data/processed/phase1_draw_classification_matrix.csv`: current player-level classification matrix.
+- `data/processed/wimbledon_2026_mens_entries.csv`: men's Wimbledon 2026 entrants.
+- `data/processed/wimbledon_2026_womens_entries.csv`: women's Wimbledon 2026 entrants.
+
+Step-by-step workflow:
+
+1. Rebuild data artifacts:
+
+```bash
+python scripts/process_and_upload.py --local-only
+python scripts/phase1_model.py
+```
+
+2. Create historical training rows.
+
+From `match_history_combined.csv`, create one row per player per Wimbledon year. The target is whether the player reached the quarterfinal. Use only matches and form data available before that Wimbledon started.
+
+3. Add pre-tournament features.
+
+For every player-year, calculate ranking, grass win rate, recent form, Wimbledon history, Grand Slam consistency, and surface-specific momentum. For 2026, reuse `phase1_player_features.csv` and `phase1_rolling_form_trends.csv`.
+
+4. Add draw features after the official draw is available.
+
+Create or join this file:
+
+```text
+data/processed/wimbledon_2026_draw_sections.csv
+```
+
+Minimum required columns:
+
+```text
+tour, draw_position, section, seed, player, first_round_opponent
+```
+
+Then engineer draw-context features:
+
+- average rank in section
+- best-ranked possible opponent before QF
+- number of seeded players in section
+- number of strong grass players in section
+- whether the player has a top 4 seed in their path
+
+5. Train with year-based validation.
+
+Do not randomly split player rows. Train on earlier Wimbledon years and validate on later years. Example:
+
+```text
+Train: 2014-2021
+Validate: 2022
+
+Train: 2014-2022
+Validate: 2023
+
+Train: 2014-2023
+Validate: 2024
+```
+
+6. Predict 2026.
+
+Score every 2026 draw player, rank players inside each section, and select the highest-probability player from each section.
+
 ## Modeling Method
 
 Recommended model:
