@@ -1,0 +1,17 @@
+category,section,player,entry_rank,qf_probability,backup_player,backup_qf_probability,main_evidence
+Men's Singles,1,"SINNER, Jannik (ITA)",1,0.6831,"JODAR, Rafael (ESP)",0.1037,highest simulated QF probability in section 1; workbook grass Elo 2088.3; blended rating 2016.03
+Men's Singles,2,"MEDVEDEV, Daniil",9,0.2544,"PAUL, Tommy (USA)",0.1994,highest simulated QF probability in section 2; workbook grass Elo 1855.1; blended rating 1798.66
+Men's Singles,3,"AUGER-ALIASSIME, Felix (CAN)",4,0.2541,"TIEN, Learner (USA)",0.1583,highest simulated QF probability in section 3; workbook grass Elo 1789.1; blended rating 1759.57
+Men's Singles,4,"DJOKOVIC, Novak (SRB)",8,0.4219,"RUBLEV, Andrey",0.1494,highest simulated QF probability in section 4; workbook grass Elo 1924.9; blended rating 1865.32
+Men's Singles,5,"DE MINAUR, Alex (AUS)",6,0.2477,"COBOLLI, Flavio (ITA)",0.1328,highest simulated QF probability in section 5; workbook grass Elo 1833.9; blended rating 1781.15
+Men's Singles,6,"SHELTON, Ben (USA)",5,0.2629,"FILS, Arthur (FRA)",0.1611,highest simulated QF probability in section 6; workbook grass Elo 1863.4; blended rating 1798.37
+Men's Singles,7,"FRITZ, Taylor (USA)",7,0.2754,"TIAFOE, Frances (USA)",0.2129,highest simulated QF probability in section 7; workbook grass Elo 1856.6; blended rating 1782.25
+Men's Singles,8,"ZVEREV, Alexander (GER)",3,0.3762,"LEHECKA, Jiri (CZE)",0.1489,highest simulated QF probability in section 8; workbook grass Elo 1913.6; blended rating 1862.74
+Women's Singles,1,"SABALENKA, Aryna",1,0.5720,"OSAKA, Naomi (JPN)",0.1610,highest simulated QF probability in section 1; workbook grass Elo 1987.2; blended rating 1940.89
+Women's Singles,2,"ANDREEVA, Mirra",5,0.2304,"MUCHOVA, Karolina (CZE)",0.2304,highest simulated QF probability in section 2; workbook grass Elo 1827.3; blended rating 1813.41
+Women's Singles,3,"PEGULA, Jessica (USA)",4,0.4125,"JOVIC, Iva (USA)",0.1551,highest simulated QF probability in section 3; workbook grass Elo 1903.4; blended rating 1850.25
+Women's Singles,4,"GAUFF, Coco (USA)",7,0.3244,"BENCIC, Belinda (SUI)",0.2197,highest simulated QF probability in section 4; workbook grass Elo 1822.8; blended rating 1807.37
+Women's Singles,5,"SVITOLINA, Elina (UKR)",8,0.3064,"KOSTYUK, Marta (UKR)",0.2433,highest simulated QF probability in section 5; workbook grass Elo 1844.5; blended rating 1816.67
+Women's Singles,6,"SWIATEK, Iga (POL)",3,0.3922,"EALA, Alexandra (PHI)",0.1407,highest simulated QF probability in section 6; workbook grass Elo 1935.8; blended rating 1871.71
+Women's Singles,7,"NOSKOVA, Linda (CZE)",10,0.2784,"KEYS, Madison (USA)",0.2478,highest simulated QF probability in section 7; workbook grass Elo 1875.2; blended rating 1801.49
+Women's Singles,8,"RYBAKINA, Elena (KAZ)",2,0.3771,"SHNAIDER, Diana",0.1244,highest simulated QF probability in section 8; workbook grass Elo 1883.7; blended rating 1862.80

@@ -1,0 +1,257 @@
+tour,draw_position,section,seed,entry_status,player,country,first_round_opponent,source
+ATP,1,1,,,Jannik SINNER,,Miomir KECMANOVIC,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,2,1,,,Miomir KECMANOVIC,,Jannik SINNER,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,3,1,,,Nuno BORGES,,Tristan BOYER,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,4,1,,,Tristan BOYER,,Nuno BORGES,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,5,1,,,Aleksandar VUKIC,,Jenson BROOKSBY,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,6,1,,,Jenson BROOKSBY,,Aleksandar VUKIC,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,7,1,,,Emilio NAVA,,Ignacio BUSE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,8,1,,,Ignacio BUSE,,Emilio NAVA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,9,1,,,Rafael JODAR,,Felix GILL,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,10,1,,,Felix GILL,,Rafael JODAR,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,11,1,,,Denis SHAPOVALOV,,Pablo CARRENO BUSTA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,12,1,,,Pablo CARRENO BUSTA,,Denis SHAPOVALOV,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,13,1,,,Shintaro MOCHIZUKI,,Max BASING,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,14,1,,,Max BASING,,Shintaro MOCHIZUKI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,15,1,,,Ethan QUINN,,Luciano DARDERI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,16,1,,,Luciano DARDERI,,Ethan QUINN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,17,2,,,Casper RUUD,,Hubert HURKACZ,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,18,2,,,Hubert HURKACZ,,Casper RUUD,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,19,2,,,Hamad MEDJEDOVIC,,Sebastian OFNER,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,20,2,,,Sebastian OFNER,,Hamad MEDJEDOVIC,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,21,2,,,Soonwoo KWON,,Martin LANDALUCE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,22,2,,,Martin LANDALUCE,,Soonwoo KWON,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,23,2,,,Alexandre MULLER,,Tommy PAUL,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,24,2,,,Tommy PAUL,,Alexandre MULLER,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,25,2,,,Brandon NAKASHIMA,,Jack PINNINGTON JONES,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,26,2,,,Jack PINNINGTON JONES,,Brandon NAKASHIMA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,27,2,,,Jan STRUFF,,Sebastian BAEZ,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,28,2,,,Sebastian BAEZ,,Jan STRUFF,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,29,2,,,Camilo UGO CARABELLI,,Daniel MERIDA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,30,2,,,Daniel MERIDA,,Camilo UGO CARABELLI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,31,2,,,Marin CILIC,,Daniil MEDVEDEV,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,32,2,,,Daniil MEDVEDEV,,Marin CILIC,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,33,3,,,Felix AUGER-ALIASSIME,,Aleksandr SHEVCHENKO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,34,3,,,Aleksandr SHEVCHENKO,,Felix AUGER-ALIASSIME,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,35,3,,,Adam WALTON,,Dino PRIZMIC,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,36,3,,,Dino PRIZMIC,,Adam WALTON,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,37,3,,,Adolfo VALLEJO,,Nicolas MEJIA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,38,3,,,Nicolas MEJIA,,Adolfo VALLEJO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,39,3,,,Michael ZHENG,,Cameron NORRIE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,40,3,,,Cameron NORRIE,,Michael ZHENG,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,41,3,,,Alejandro DAVIDOVICH FOKINA,,Juan CERUNDOLO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,42,3,,,Juan CERUNDOLO,,Alejandro DAVIDOVICH FOKINA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,43,3,,,Thiago TIRANTE,,Fabian MAROZSAN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,44,3,,,Fabian MAROZSAN,,Thiago TIRANTE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,45,3,,,Luca VAN ASSCHE,,Marton FUCSOVICS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,46,3,,,Marton FUCSOVICS,,Luca VAN ASSCHE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,47,3,,,Dalibor SVRCINA,,Learner TIEN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,48,3,,,Learner TIEN,,Dalibor SVRCINA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,49,4,,,Andrey RUBLEV,,Roman SAFIULLIN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,50,4,,,Roman SAFIULLIN,,Andrey RUBLEV,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,51,4,,,Aleksandar KOVACEVIC,,Botic VAN DE ZANDSCHULP,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,52,4,,,Botic VAN DE ZANDSCHULP,,Aleksandar KOVACEVIC,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,53,4,,,Jesper DE JONG,,Rinky HIJIKATA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,54,4,,,Rinky HIJIKATA,,Jesper DE JONG,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,55,4,,,Roberto BAUTISTA AGUT,,Joao FONSECA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,56,4,,,Joao FONSECA,,Roberto BAUTISTA AGUT,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,57,4,,,Arthur RINDERKNECH,,Oliver TARVET,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,58,4,,,Oliver TARVET,,Arthur RINDERKNECH,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,59,4,,,Marco TRUNGELLITI,,Martin DAMM,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,60,4,,,Martin DAMM,,Marco TRUNGELLITI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,61,4,,,Hugo GASTON,,Stefanos TSITSIPAS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,62,4,,,Stefanos TSITSIPAS,,Hugo GASTON,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,63,4,,,Yibing WU,,Novak DJOKOVIC,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,64,4,,,Novak DJOKOVIC,,Yibing WU,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,65,5,,,Alex DE MINAUR,,Roman BURRUCHAGA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,66,5,,,Roman BURRUCHAGA,,Alex DE MINAUR,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,67,5,,,Adrian MANNARINO,,Titouan DROGUET,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,68,5,,,Titouan DROGUET,,Adrian MANNARINO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,69,5,,,Mattia BELLUCCI,,Zachary SVAJDA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,70,5,,,Zachary SVAJDA,,Mattia BELLUCCI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,71,5,,,Kamil MAJCHRZAK,,Alejandro TABILO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,72,5,,,Alejandro TABILO,,Kamil MAJCHRZAK,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,73,5,,,Karen KHACHANOV,,Billy HARRIS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,74,5,,,Billy HARRIS,,Karen KHACHANOV,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,75,5,,,Yannick HANFMANN,,Giovanni MPETSHI PERRICARD,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,76,5,,,Giovanni MPETSHI PERRICARD,,Yannick HANFMANN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,77,5,,,Tallon GRIEKSPOOR,,James DUCKWORTH,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,78,5,,,James DUCKWORTH,,Tallon GRIEKSPOOR,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,79,5,,,Mariano NAVONE,,Flavio COBOLLI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,80,5,,,Flavio COBOLLI,,Mariano NAVONE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,81,6,,,Jakub MENSIK,,Toby SAMUEL,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,82,6,,,Toby SAMUEL,,Jakub MENSIK,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,83,6,,,Dane SWEENY,,Grigor DIMITROV,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,84,6,,,Grigor DIMITROV,,Dane SWEENY,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,85,6,,,Stan WAWRINKA,,Matteo BERRETTINI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,86,6,,,Matteo BERRETTINI,,Stan WAWRINKA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,87,6,,,Raphael COLLIGNON,,Arthur FILS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,88,6,,,Arthur FILS,,Raphael COLLIGNON,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,89,6,,,Ugo HUMBERT,,Zizou BERGS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,90,6,,,Zizou BERGS,,Ugo HUMBERT,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,91,6,,,Sho SHIMABUKURO,,Jaime FARIA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,92,6,,,Jaime FARIA,,Sho SHIMABUKURO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,93,6,,,Damir DZUMHUR,,Arthur FERY,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,94,6,,,Arthur FERY,,Damir DZUMHUR,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,95,6,,,Otto VIRTANEN,,Ben SHELTON,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,96,6,,,Ben SHELTON,,Otto VIRTANEN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,97,7,,,Taylor FRITZ,,Jack DRAPER,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,98,7,,,Jack DRAPER,,Taylor FRITZ,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,99,7,,,Patrick KYPSON,,Mackenzie MCDONALD,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,100,7,,,Mackenzie MCDONALD,,Patrick KYPSON,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,101,7,,,Benjamin BONZI,,Gabriel DIALLO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,102,7,,,Gabriel DIALLO,,Benjamin BONZI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,103,7,,,Lorenzo SONEGO,,Tomas ETCHEVERRY,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,104,7,,,Tomas ETCHEVERRY,,Lorenzo SONEGO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,105,7,,,Frances TIAFOE,,Terence ATMANE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,106,7,,,Terence ATMANE,,Frances TIAFOE,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,107,7,,,Vit KOPRIVA,,Jan CHOINSKI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,108,7,,,Jan CHOINSKI,,Vit KOPRIVA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,109,7,,,Kyrian JACQUET,,Vilius GAUBAS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,110,7,,,Vilius GAUBAS,,Kyrian JACQUET,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,111,7,,,Thanasi KOKKINAKIS,,Alexander BUBLIK,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,112,7,,,Alexander BUBLIK,,Thanasi KOKKINAKIS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,113,8,,,Jiri LEHECKA,,Alexei POPYRIN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,114,8,,,Alexei POPYRIN,,Jiri LEHECKA,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,115,8,,,Alex MOLCAN,,Daniel ALTMAIER,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,116,8,,,Daniel ALTMAIER,,Alex MOLCAN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,117,8,,,Alex MICHELSEN,,Jacob FEARNLEY,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,118,8,,,Jacob FEARNLEY,,Alex MICHELSEN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,119,8,,,Jaume MUNAR,,Francisco CERUNDOLO,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,120,8,,,Francisco CERUNDOLO,,Jaume MUNAR,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,121,8,,,Matteo ARNALDI,,Quentin HALYS,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,122,8,,,Quentin HALYS,,Matteo ARNALDI,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,123,8,,,Corentin MOUTET,,Marcos GIRON,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,124,8,,,Marcos GIRON,,Corentin MOUTET,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,125,8,,,Valentin ROYER,,Harry WENDELKEN,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,126,8,,,Harry WENDELKEN,,Valentin ROYER,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,127,8,,,Alexander BLOCKX,,Alexander ZVEREV,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+ATP,128,8,,,Alexander ZVEREV,,Alexander BLOCKX,tennis_data_consolidated (2).xlsx:ATP_2026_Draw
+WTA,1,1,,,Aryna SABALENKA,,Teodora KOSTOVIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,2,1,,,Teodora KOSTOVIC,,Aryna SABALENKA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,3,1,,,Oleksandra OLIYNYKOVA,,Mc KESSLER,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,4,1,,,Mc KESSLER,,Oleksandra OLIYNYKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,5,1,,,Jelena OSTAPENKO,,Harriet DART,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,6,1,,,Harriet DART,,Jelena OSTAPENKO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,7,1,,,Antonia RUZIC,,Emma RADUCANU,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,8,1,,,Emma RADUCANU,,Antonia RUZIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,9,1,,,Leylah FERNANDEZ,,Janice TJEN,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,10,1,,,Janice TJEN,,Leylah FERNANDEZ,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,11,1,,,Mimi XU,,Daria KASATKINA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,12,1,,,Daria KASATKINA,,Mimi XU,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,13,1,,,Anastasia GASANOVA,,Emiliana ARANGO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,14,1,,,Emiliana ARANGO,,Anastasia GASANOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,15,1,,,Elsa JACQUEMOT,,Naomi OSAKA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,16,1,,,Naomi OSAKA,,Elsa JACQUEMOT,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,17,2,,,Karolina MUCHOVA,,Anastasia ZAKHAROVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,18,2,,,Anastasia ZAKHAROVA,,Karolina MUCHOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,19,2,,,Bianca ANDREESCU,,Shuai ZHANG,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,20,2,,,Shuai ZHANG,,Bianca ANDREESCU,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,21,2,,,Alycia PARKS,,Alicia DUDENEY,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,22,2,,,Alicia DUDENEY,,Alycia PARKS,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,23,2,,,Mananchaya SAWANGKAEW,,Maja CHWALINSKA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,24,2,,,Maja CHWALINSKA,,Mananchaya SAWANGKAEW,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,25,2,,,Katerina SINIAKOVA,,Qinwen ZHENG,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,26,2,,,Qinwen ZHENG,,Katerina SINIAKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,27,2,,,Peyton STEARNS,,Nikola BARTUNKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,28,2,,,Nikola BARTUNKOVA,,Peyton STEARNS,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,29,2,,,Barbora KREJCIKOVA,,Hannah KLUGMAN,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,30,2,,,Hannah KLUGMAN,,Barbora KREJCIKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,31,2,,,Magda LINETTE,,Mirra ANDREEVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,32,2,,,Mirra ANDREEVA,,Magda LINETTE,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,33,3,,,Jessica PEGULA,,Darja VIDMANOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,34,3,,,Darja VIDMANOVA,,Jessica PEGULA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,35,3,,,Sara SORRIBES TORMO,,Victoria JIMENEZ KASINTSEVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,36,3,,,Victoria JIMENEZ KASINTSEVA,,Sara SORRIBES TORMO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,37,3,,,Dayana YASTREMSKA,,Aoi ITO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,38,3,,,Aoi ITO,,Dayana YASTREMSKA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,39,3,,,Jessica BOUZAS MANEIRO,,Anastasia POTAPOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,40,3,,,Anastasia POTAPOVA,,Jessica BOUZAS MANEIRO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,41,3,,,Ekaterina ALEXANDROVA,,Panna UDVARDY,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,42,3,,,Panna UDVARDY,,Ekaterina ALEXANDROVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,43,3,,,Lanlana TARARUDEE,,Lilli TAGGER,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,44,3,,,Lilli TAGGER,,Lanlana TARARUDEE,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,45,3,,,Yulia PUTINTSEVA,,Tatjana MARIA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,46,3,,,Tatjana MARIA,,Yulia PUTINTSEVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,47,3,,,Jaqueline CRISTIAN,,Iva JOVIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,48,3,,,Iva JOVIC,,Jaqueline CRISTIAN,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,49,4,,,Belinda BENCIC,,Mika STOJSAVLJEVIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,50,4,,,Mika STOJSAVLJEVIC,,Belinda BENCIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,51,4,,,Xinyu WANG,,Elisabetta COCCIARETTO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,52,4,,,Elisabetta COCCIARETTO,,Xinyu WANG,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,53,4,,,Francesca JONES,,Diane PARRY,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,54,4,,,Diane PARRY,,Francesca JONES,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,55,4,,,Magdalena FRECH,,Anna KALINSKAYA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,56,4,,,Anna KALINSKAYA,,Magdalena FRECH,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,57,4,,,Ann LI,,Zeynep SONMEZ,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,58,4,,,Zeynep SONMEZ,,Ann LI,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,59,4,,,Claire LIU,,Hanne VANDEWINKEL,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,60,4,,,Hanne VANDEWINKEL,,Claire LIU,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,61,4,,,Solana SIERRA,,Anna BONDAR,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,62,4,,,Anna BONDAR,,Solana SIERRA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,63,4,,,Tamara KORPATSCH,,Coco GAUFF,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,64,4,,,Coco GAUFF,,Tamara KORPATSCH,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,65,5,,,Elina SVITOLINA,,Daria SNIGUR,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,66,5,,,Daria SNIGUR,,Elina SVITOLINA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,67,5,,,Veronika ERJAVEC,,Leolia JEANJEAN,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,68,5,,,Leolia JEANJEAN,,Veronika ERJAVEC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,69,5,,,Ajla TOMLJANOVIC,,Mariam BOLKVADZE,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,70,5,,,Mariam BOLKVADZE,,Ajla TOMLJANOVIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,71,5,,,Ashlyn KRUEGER,,Donna VEKIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,72,5,,,Donna VEKIC,,Ashlyn KRUEGER,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,73,5,,,Emma NAVARRO,,Paula BADOSA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,74,5,,,Paula BADOSA,,Emma NAVARRO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,75,5,,,Oksana SELEKHMETEVA,,Sinja KRAUS,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,76,5,,,Sinja KRAUS,,Oksana SELEKHMETEVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,77,5,,,Yuliia STARODUBTSEVA,,Anna BLINKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,78,5,,,Anna BLINKOVA,,Yuliia STARODUBTSEVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,79,5,,,Nadia PODOROSKA,,Marta KOSTYUK,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,80,5,,,Marta KOSTYUK,,Nadia PODOROSKA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,81,6,,,Jasmine PAOLINI,,Robin MONTGOMERY,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,82,6,,,Robin MONTGOMERY,,Jasmine PAOLINI,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,83,6,,,Iryna SHYMANOVICH,,Viktorija GOLUBIC,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,84,6,,,Viktorija GOLUBIC,,Iryna SHYMANOVICH,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,85,6,,,Anhelina KALININA,,Kamilla RAKHIMOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,86,6,,,Kamilla RAKHIMOVA,,Anhelina KALININA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,87,6,,,Maria SAKKARI,,Clara TAUSON,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,88,6,,,Clara TAUSON,,Maria SAKKARI,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,89,6,,,Alexandra EALA,,Renata ZARAZUA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,90,6,,,Renata ZARAZUA,,Alexandra EALA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,91,6,,,Serena WILLIAMS,,Maya JOINT,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,92,6,,,Maya JOINT,,Serena WILLIAMS,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,93,6,,,Tereza VALENTOVA,,Karolina PLISKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,94,6,,,Karolina PLISKOVA,,Tereza VALENTOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,95,6,,,Taylor TOWNSEND,,Iga SWIATEK,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,96,6,,,Iga SWIATEK,,Taylor TOWNSEND,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,97,7,,,Amanda ANISIMOVA,,Lina GJORCHESKA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,98,7,,,Lina GJORCHESKA,,Amanda ANISIMOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,99,7,,,Petra MARCINKO,,Sofia KENIN,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,100,7,,,Sofia KENIN,,Petra MARCINKO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,101,7,,,Irina BEGU,,Katie SWAN,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,102,7,,,Katie SWAN,,Irina BEGU,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,103,7,,,Kayla DAY,,Madison KEYS,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,104,7,,,Madison KEYS,,Kayla DAY,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,105,7,,,Sorana CIRSTEA,,Sara BEJLEK,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,106,7,,,Sara BEJLEK,,Sorana CIRSTEA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,107,7,,,Kimberly BIRRELL,,Alina KORNEEVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,108,7,,,Alina KORNEEVA,,Kimberly BIRRELL,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,109,7,,,Camila OSORIO,,Simona WALTERT,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,110,7,,,Simona WALTERT,,Camila OSORIO,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,111,7,,,Ella SEIDEL,,Linda NOSKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,112,7,,,Linda NOSKOVA,,Ella SEIDEL,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,113,8,,,Diana SHNAIDER,,Eva LYS,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,114,8,,,Eva LYS,,Diana SHNAIDER,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,115,8,,,Polina KUDERMETOVA,,Liudmila SAMSONOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,116,8,,,Liudmila SAMSONOVA,,Polina KUDERMETOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,117,8,,,Katie BOULTER,,Tyra GRANT,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,118,8,,,Tyra GRANT,,Katie BOULTER,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,119,8,,,Talia GIBSON,,Marie BOUZKOVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,120,8,,,Marie BOUZKOVA,,Talia GIBSON,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,121,8,,,Elise MERTENS,,Laura SIEGEMUND,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,122,8,,,Laura SIEGEMUND,,Elise MERTENS,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,123,8,,,Beatriz HADDAD MAIA,,Maria TIMOFEEVA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,124,8,,,Maria TIMOFEEVA,,Beatriz HADDAD MAIA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,125,8,,,Elena RUSE,,Caty MCNALLY,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,126,8,,,Caty MCNALLY,,Elena RUSE,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,127,8,,,Lois BOISSON,,Elena RYBAKINA,tennis_data_consolidated (2).xlsx:WTA_2026_Draw
+WTA,128,8,,,Elena RYBAKINA,,Lois BOISSON,tennis_data_consolidated (2).xlsx:WTA_2026_Draw

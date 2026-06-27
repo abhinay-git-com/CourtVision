@@ -24,6 +24,12 @@
       "group": "build"
     },
     {
+      "label": "Strategy 1: Run draw simulation",
+      "type": "shell",
+      "command": ". .venv/bin/activate && python scripts/strategy1_draw_simulation.py",
+      "group": "build"
+    },
+    {
       "label": "Phase 1: Full local pipeline",
       "dependsOrder": "sequence",
       "dependsOn": [

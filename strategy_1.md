@@ -20,6 +20,7 @@ Which eight men's players and which eight women's players should we submit as pr
 - Wimbledon-specific historical match results.
 - 2026 Wimbledon entry lists.
 - Official 2026 Wimbledon men's and women's singles draws.
+- Consolidated workbook: `data/tennis_data_consolidated (2).xlsx`.
 - Seed, rank, draw section, and opponent path.
 - Optional manual risk flags for injury, withdrawal, or poor fitness.
 
@@ -39,6 +40,7 @@ Which eight men's players and which eight women's players should we submit as pr
 
 Start from the local processed files we already generate:
 
+- `data/tennis_data_consolidated (2).xlsx`: preferred source for current Elo, grass Elo, and 2026 draw positions.
 - `data/processed/match_history_combined.csv`: canonical ATP/WTA historical match log.
 - `data/processed/phase1_player_features.csv`: current player-level ranking, grass, Wimbledon, and recent-form features.
 - `data/processed/phase1_rolling_form_trends.csv`: rolling player form trends.
@@ -64,7 +66,14 @@ Use the player names in `wimbledon_2026_mens_entries.csv` and `wimbledon_2026_wo
 
 4. Add the official draw.
 
-Once the official draw is saved locally, create:
+The current preferred route is to read the draw directly from the consolidated workbook:
+
+```text
+ATP_2026_Draw: Bracket_Pos, Player_Name
+WTA_2026_Draw: Bracket_Pos, Player_Name
+```
+
+The Strategy 1 script converts those sheets into:
 
 ```text
 data/processed/wimbledon_2026_draw_sections.csv
@@ -85,6 +94,26 @@ For each simulated match, calculate win probability from the two players' blende
 6. Produce the Phase 1 picks.
 
 For each tour and each section, select the player with the highest simulated quarterfinal probability. Keep the second-highest player as the backup pick.
+
+7. Run the Strategy 1 script.
+
+By default, this command rebuilds `wimbledon_2026_draw_sections.csv` from the consolidated workbook, joins workbook Elo and grass Elo, then runs the draw simulation:
+
+```bash
+python3 scripts/strategy1_draw_simulation.py
+```
+
+To increase simulation stability before final submission, rerun with more simulations:
+
+```bash
+python3 scripts/strategy1_draw_simulation.py --simulations 20000
+```
+
+If the workbook is unavailable, the script can fall back to draw PDFs:
+
+```bash
+python3 scripts/strategy1_draw_simulation.py --draw-source pdf --simulations 20000
+```
 
 ## Modeling Method
 
